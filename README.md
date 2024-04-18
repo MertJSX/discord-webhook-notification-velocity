@@ -1,4 +1,4 @@
-# Minecraft plugin for Discord Webhook notification on starting the Velocity server
+# Minecraft plugin for <a href="https://papermc.io/software/velocity">Discord Webhook</a> notification on starting the <a href="https://papermc.io/software/velocity">Velocity</a> server
 
 ## Example ```config.toml```
 Config is simple paste your discord webhook url to the ```webhook = "yourwebhook"``` then change settings! This is the same thing as the Discord webhook API!
