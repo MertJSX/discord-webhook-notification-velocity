@@ -1,0 +1,19 @@
+webhook = "yourwebhook"
+
+[on_start]
+    content = "Server has started!"
+    [[on_start.embeds]]
+        title = "ExampleServer"
+        description = "Join NOW!\nip: play.example.com"
+        color = "3238202"
+        [on_start.embeds.thumbnail]
+            url = "https://cdn-icons-png.flaticon.com/512/5110/5110487.png"
+
+[on_stop]
+    content = "Server has stopped!"
+    [[on_stop.embeds]]
+        title = "ExampleServer"
+        description = "Sorry! :/\nip: play.example.com"
+        color = "16405074"
+        [on_stop.embeds.thumbnail]
+            url = "https://cdn-icons-png.flaticon.com/512/5110/5110487.png"
