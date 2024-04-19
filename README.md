@@ -30,3 +30,7 @@ webhook = "yourwebhook"
 Example:
 
 <img src="https://cdn.discordapp.com/attachments/853315527607189536/1230618812232241264/image.png?ex=6633fa14&is=66218514&hm=14be8969963ff60ec759ff661dd1e928b78e9ce9b4b386fa768629143155f835&" width="530px" height="150px">
+
+# Commands:
+## ```/dwn-test``` Test webhook
+## ```/dwn-reload``` Reload plugin
